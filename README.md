@@ -5,3 +5,5 @@ I love to learn new things and am interested in working on finance/operations-re
 
 I'm always happy to chat, so feel free to reach out! 
 https://www.linkedin.com/in/selmaduric/
+
+Currently working on a pet project: https://github.com/d-sel/bankruptcy-predictor
